@@ -69,10 +69,16 @@ cout << geometric2 << "\n";
 cout << geometric3 << "\n";
 }
 ```
-## 1.3 expectation of an event occurring from a discrete, random variable:
+## 1.3 Conditional probability:
+Conditional probability is when the probability of one event all depends on a possible previous event. The easiest way to understand this theory is to visualise it in a tree diagram. Below is an example of a tree diagram:
+![probability-marbles-tree2](https://user-images.githubusercontent.com/31927590/35920684-6b1ac004-0c10-11e8-8878-93d21060177d.gif)
 
-## 1.4 simple shapes using co-ordinate geometry:
+![probability-marbles-tree3](https://user-images.githubusercontent.com/31927590/35920698-770cb4bc-0c10-11e8-815c-8c8026e9e518.gif)
 
-## 1.5 integral calculus to solve practical problems involving area:
+## 1.4 expectation of an event occurring from a discrete, random variable:
 
-## 1.6 coordinate system used in programming a simple output device:
+## 1.5 simple shapes using co-ordinate geometry:
+
+## 1.6 integral calculus to solve practical problems involving area:
+
+## 1.7 coordinate system used in programming a simple output device:
