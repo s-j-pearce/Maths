@@ -20,10 +20,19 @@ Within this document, I will be looking at the methodologies and ideaolagies of 
 ## 1.1 How to calculate the greatest common divisor and the least common multiple:
 ### Greatest common divisor:
 GCD or the greatest common divisor is the largest number that divides the given numbers. In order to calculate the greatest common divisor you must first find out all of the divisors for the given numbers. Once you have all the divisors, you will compare the two sets and find the largest divisor that is shared between the two groups.
+#### GCD Example:
+Find the GCD of 45 and 54.
+
+Step 1: Find the divisiors of given numbers:
+
+The divisiors of 45 are : 1, 3, 5, 9, 15, 45
+
+The divisiors of 54 are : 1, 2, 3, 6, 9, 18, 27, 54
+
+Step 2: Find the greatest number that these two lists share in common. In this example the GCD is 9.
 ### Least common multiple:
 LCM stands for Lowest Common Multiple. LCM is the smallest number that is a multiple of both a and b.
-
-LCM Example
+####LCM Example
 Find the LCM of 6 and 8.
 
 The multiples of 6 are : 6, 12, 18, 24, 30, . . .
