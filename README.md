@@ -160,5 +160,7 @@ int main() {
 }
 ```
 ## 1.6 integral calculus to solve practical problems involving area:
-
-## 1.7 coordinate system used in programming a simple output device:
+### Calculus:
+Calculus is the mathematical study of continuous change, this means the study of instantaneous change over tiny intervals of time.
+### Integral:
+In mathematics, an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data.
