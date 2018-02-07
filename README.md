@@ -72,7 +72,7 @@ cout << geometric3 << "\n";
 ## 1.3 Conditional probability:
 Conditional probability is when the probability of one event all depends on a possible previous event. The easiest way to understand this theory is to visualise it in a tree diagram. Below is an example of a tree diagram:
 ![probability-marbles-tree2](https://user-images.githubusercontent.com/31927590/35920684-6b1ac004-0c10-11e8-8878-93d21060177d.gif)
-
+The example above is of a bag full of marbles, there are 2 blue marbles and 3 red marbles. we want to find out what the probability is that we will pull out 2 blue marbles.
 ![probability-marbles-tree3](https://user-images.githubusercontent.com/31927590/35920698-770cb4bc-0c10-11e8-815c-8c8026e9e518.gif)
 
 ## 1.4 expectation of an event occurring from a discrete, random variable:
