@@ -42,7 +42,7 @@ The multiples of 8 are : 8, 16, 24, 32, 40, . . .
 So, the Lowest Common Multiple is 24.
 ## 1.2 Arithmetic and geometric progressions:
 Here is a code for an algorithm to calculate Arithmetic and Geometric Progression:
-'''
+``` C
 #include <iostream> /*Libary*/
 #include <time.h>
 
@@ -68,7 +68,7 @@ cout << geometric << "\n";
 cout << geometric2 << "\n";
 cout << geometric3 << "\n";
 }
-'''
+```
 ## 1.3 expectation of an event occurring from a discrete, random variable:
 
 ## 1.4 simple shapes using co-ordinate geometry:
