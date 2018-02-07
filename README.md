@@ -76,6 +76,13 @@ Conditional probability is when the probability of one event all depends on a po
 The example above is of a bag full of marbles, there are 2 blue marbles and 3 red marbles. we want to find out what the probability is that we will pull out 2 blue marbles.
 ![probability-marbles-tree3](https://user-images.githubusercontent.com/31927590/35920698-770cb4bc-0c10-11e8-815c-8c8026e9e518.gif)
 
+The example above shows the process to find out the probability of pulling out 2 blue marbles. As you can see in the first branch, there is a 2/5 chance of pulling out a Blue marble, and a 3/5 chance for Red. We can go one step further and see what happens when we pick a second marble. If a blue marble was selected first there is now a 1/4 chance of getting a blue marble and a 3/4 chance of getting a red marble. If a red marble was selected first there is now a 2/4 chance of getting a blue marble and a 2/4 chance of getting a red marble.
+
+We can now answer the question of what is the probability of pulling out 2 blue marbles. The Answer is 2/5 chance followed by 1/4 chance:
+
+That translates to: 2/5 * 1/4 = 2/20 = 1/10
+
+That means that the chance of pulling out two blue marbles is 1/10.
 ## 1.4 expectation of an event occurring from a discrete, random variable:
 
 ## 1.5 simple shapes using co-ordinate geometry:
