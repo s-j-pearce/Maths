@@ -32,7 +32,7 @@ The divisiors of 54 are : 1, 2, 3, 6, 9, 18, 27, 54
 Step 2: Find the greatest number that these two lists share in common. In this example the GCD is 9.
 ### Least common multiple:
 LCM stands for Lowest Common Multiple. LCM is the smallest number that is a multiple of both a and b.
-#### LCM Example
+#### LCM Example:
 Find the LCM of 6 and 8.
 
 The multiples of 6 are : 6, 12, 18, 24, 30, . . .
@@ -41,7 +41,34 @@ The multiples of 8 are : 8, 16, 24, 32, 40, . . .
 
 So, the Lowest Common Multiple is 24.
 ## 1.2 Arithmetic and geometric progressions:
+Here is a code for an algorithm to calculate Arithmetic and Geometric Progression:
+'''
+#include <iostream> /*Libary*/
+#include <time.h>
 
+
+using namespace std;
+
+int main () {
+  
+int input;
+
+cout << "Enter a number" << "\n";
+
+cin >> input;
+
+int geometric = input + input;
+
+int geometric2 = geometric + input;
+
+int geometric3 = geometric2 + input;
+
+cout << "Geometric Number: " "\n";
+cout << geometric << "\n";
+cout << geometric2 << "\n";
+cout << geometric3 << "\n";
+}
+'''
 ## 1.3 expectation of an event occurring from a discrete, random variable:
 
 ## 1.4 simple shapes using co-ordinate geometry:
