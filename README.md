@@ -32,7 +32,7 @@ The divisiors of 54 are : 1, 2, 3, 6, 9, 18, 27, 54
 Step 2: Find the greatest number that these two lists share in common. In this example the GCD is 9.
 ### Least common multiple:
 LCM stands for Lowest Common Multiple. LCM is the smallest number that is a multiple of both a and b.
-####LCM Example
+#### LCM Example
 Find the LCM of 6 and 8.
 
 The multiples of 6 are : 6, 12, 18, 24, 30, . . .
