@@ -74,6 +74,7 @@ An example is:
 
 Range 1-100 / Total = 20/100 = 1/5
 ### Event occurring from a discrete, random variable:
+![36476634-5e589bac-16f6-11e8-83ad-c865fdd0e82e](https://user-images.githubusercontent.com/31927590/36792478-9e3d78c2-1c92-11e8-8f8f-2de8bd9059ab.PNG)
 
 ## 1.5 simple shapes using co-ordinate geometry:
 Here is the code i made to calculate simple shapes using co-ordinate geometry:
