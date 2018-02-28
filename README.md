@@ -73,8 +73,7 @@ One out of every five numbers is divisible by 5, meaning there is a 1/5 chance. 
 An example is:
 
 Range 1-100 / Total = 20/100 = 1/5
-
-https://user-images.githubusercontent.com/31927415/36476634-5e589bac-16f6-11e8-83ad-c865fdd0e82e.PNG
+### Event occurring from a discrete, random variable:
 
 ## 1.5 simple shapes using co-ordinate geometry:
 Here is the code i made to calculate simple shapes using co-ordinate geometry:
