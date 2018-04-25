@@ -277,5 +277,6 @@ function shape(){
 ```
 ## Determine the rate of change within an algebraic function:
 The average rate of change is the average rate that one value is changing with respect to another value changing. Some well known rates of change include 'Miles per gallon' which is calculated by dividing the cost of electricity by the number of kilowats used. There is also another well know one which is 'miled per hour', this is calculated by dividing the number of miles travelled by the number of hours it takes to travel them. In general the average rate of change function is a process that calculates the amount of change in one item divided by the corresponding amount of change in another. We use this function to work out the rate of change:
-![rate of change](https://user-images.githubusercontent.com/31927590/39234950-8af38742-486c-11e8-929e-0104630fd601.jpg)
+![rate of change](https://user-images.githubusercontent.com/31927590/39235179-1f859a80-486d-11e8-8f2d-2c82c27488f5.jpg)
+
 
