@@ -282,7 +282,7 @@ The average rate of change is the average rate that one value is changing with r
 
 Here are some other examples of Rate of change:
 
-	 F(x) = x²
+	F(x) = x²
 		Rate of change from 1 to 3
 		(3² - 1²) / (3-1) = (9-1) / (3-1) = 8/2 = 4. Binary = 0100
 		
