@@ -290,3 +290,4 @@ Here are some other examples of Rate of change:
 	 	Rate of change from 10 to 100
 		(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2. Hex Decimal = 2
 
+## Use integral calculus to solve practical problems involving area:
