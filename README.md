@@ -281,12 +281,12 @@ The average rate of change is the average rate that one value is changing with r
 ![rate of change](https://user-images.githubusercontent.com/31927590/39235179-1f859a80-486d-11e8-8f2d-2c82c27488f5.jpg)
 
 Here are some other examples of Rate of change:
-```
- F(x) = x²
+
+	 F(x) = x²
 		Rate of change from 1 to 3
 		(3² - 1²) / (3-1) = (9-1) / (3-1) = 8/2 = 4. Binary = 0100
 		
-	    F(x) = 2x+3
-	    	Rate of change from 10 to 100
+	F(x) = 2x+3
+	 	Rate of change from 10 to 100
 		(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2. Hex Decimal = 2
- ```
+
