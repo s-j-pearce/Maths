@@ -291,9 +291,12 @@ Here are some other examples of Rate of change:
 		(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2. Hex Decimal = 2
 
 ## Use integral calculus to solve practical problems involving area:
-Integral calculas is used to help calculate whats inside a curve. If the shape itself is normal or common then you wont have to use integral calculus. However if the shape is more complex, You would then use integral calculus to help calculate the area. You would do this by using the given a nd b points on the graph to help work out the the area of a to b. Below are some examples:
+Integral calculus is used to help calculate whats inside a curve. If the shape itself is normal or common then you wont have to use integral calculus. However if the shape is more complex, You would then use integral calculus to help calculate the area. You would do this by using the given a nd b points on the graph to help work out the the area of a to b. Below are some examples:
 
 ![38805040-533a1db8-416c-11e8-876d-0848ae3a82ec](https://user-images.githubusercontent.com/31927590/39236132-cec3315e-486f-11e8-9ef0-068baa3a5588.PNG)
+
+![capture](https://user-images.githubusercontent.com/31927590/39237402-53aac208-4873-11e8-9ddd-e7b9346dfe3b.PNG)
+
 
 The integral symbol ∫, Represents integration, The a and b signs within the examples are placed on each side of the ∫ symbol as we want to calculate the area between a and b. the symbol dx represents the differential of variable x, indicates that the variable of integration is x. Finding the area to the x axis from the curve means that we have to find the integral of a function with respect to x.
 
