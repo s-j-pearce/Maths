@@ -171,7 +171,7 @@ In mathematics, an integral assigns numbers to functions in a way that can descr
 ## Determine shape parameters using appropriate vector methods:
 A vector is a quantity or phenomenon that has two independent properties; magnitude direction. The term also denotes the mathematical or geometrical representation of such a quantity. To scale shapes and identify shape parameters i have created a formula that you can use to scale a shape vector method. The formula or code is below:
 
-'''
+```
 <body>
 
 <canvas id="myCanvas" width="300" height="150" style="border:1px solid #d3d3d3;"></canvas>
@@ -274,5 +274,5 @@ function shape(){
 
 </body>
 </html>
-'''
+```
 
