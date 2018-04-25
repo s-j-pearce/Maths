@@ -169,7 +169,7 @@ Calculus is the mathematical study of continuous change, this means the study of
 ### Integral:
 In mathematics, an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data.
 ## Determine shape parameters using appropriate vector methods:
-A vector is a quantity or phenomenon that has two independent properties; magnitude direction. The term also denotes the mathematical or geometrical representation of such a quantity. To scale shapes and identify shape parameters i have created a formula that you can use to scale a shape vector method. The formula or code is below:
+A vector is a quantity or phenomenon that has two independent properties; magnitude direction. The term also denotes the mathematical or geometrical representation of such a quantity. To scale shapes and identify shape parameters i have created a formula that you can use to scale a shape vector method. You can find the code to create vectors below:
 
 ```
 <body>
