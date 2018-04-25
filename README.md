@@ -295,8 +295,7 @@ Integral calculus is used to help calculate whats inside a curve. If the shape i
 
 ![38805040-533a1db8-416c-11e8-876d-0848ae3a82ec](https://user-images.githubusercontent.com/31927590/39236132-cec3315e-486f-11e8-9ef0-068baa3a5588.PNG)
 
-![capture](https://user-images.githubusercontent.com/31927590/39237402-53aac208-4873-11e8-9ddd-e7b9346dfe3b.PNG)
-
+![capture](https://user-images.githubusercontent.com/31927590/39237439-74458b2e-4873-11e8-8c1c-3d291674c85f.PNG)
 
 The integral symbol ∫, Represents integration, The a and b signs within the examples are placed on each side of the ∫ symbol as we want to calculate the area between a and b. the symbol dx represents the differential of variable x, indicates that the variable of integration is x. Finding the area to the x axis from the curve means that we have to find the integral of a function with respect to x.
 
